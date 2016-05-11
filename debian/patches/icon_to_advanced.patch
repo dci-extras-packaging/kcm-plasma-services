@@ -1,0 +1,13 @@
+--- kcm-plasma-services-1.0.orig/kcm_plasmaservices.desktop
++++ kcm-plasma-services-1.0/kcm_plasmaservices.desktop
+@@ -6,7 +6,8 @@ Categories=Qt;KDE;X-KDE-settings-system;
+ X-KDE-ServiceTypes=KCModule
+ X-KDE-Library=kcm_plasmaservices
+ X-KDE-ParentApp=kcontrol
+-X-KDE-System-Settings-Parent-Category=session
+-X-KDE-Keywords=startup
++X-KDE-System-Settings-Parent-Category=advanced
++X-KDE-Keywords=startup,service,services,plasma
++X-KDE-Weight=20
+ Name=Plasma Services
+ Comment=Plasma Services
