@@ -1,3 +1,9 @@
+kcm-plasma-services (1.0-2) stable; urgency=medium
+
+  * Update dependency name, bump debhelper compat.
+
+ -- Scarlett <sgmoore@debian.org>  Wed, 09 Feb 2022 07:51:59 -0700
+
 kcm-plasma-services (1.0-1) xenial; urgency=low
 
   * Initial release 
